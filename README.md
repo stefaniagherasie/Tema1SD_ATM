@@ -3,7 +3,9 @@
 
 
 
-Tema presupune realizarea unui program care să simuleze funcționalitatea unui ATM. Astfel se efectueaza gestionarea conturilor si se primesc cereri care oferă clientului posibilitatea de a efectua tranzacții.
+Tema presupune realizarea unui program care să simuleze funcționalitatea unui ATM. Astfel se efectueaza gestionarea conturilor si se primesc cereri care oferă clientului posibilitatea de a efectua tranzacții. Enunt: https://acs.curs.pub.ro/2018/pluginfile.php/51630/mod_assign/intro/%5BSD%5D%20Tema%201%20-%202019.pdf?time=1552498583262
+
+
 
 Operatiile care trebuie efectuate sunt citite din fisierul de input, impreuna cu nr_max_cards. Dupa citire acestea sunt apelate si efectuate prin intermediul functiilor corespunzatoare.
 
