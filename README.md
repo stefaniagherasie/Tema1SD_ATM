@@ -6,7 +6,7 @@
 Tema presupune realizarea unui program care să simuleze funcționalitatea unui ATM. Astfel se efectueaza gestionarea conturilor si se primesc cereri care oferă clientului posibilitatea de a efectua tranzacții. Enunt: https://acs.curs.pub.ro/2018/pluginfile.php/51630/mod_assign/intro/%5BSD%5D%20Tema%201%20-%202019.pdf?time=1552498583262
 
 
-
+#### IMPLEMENTARE
 Operatiile care trebuie efectuate sunt citite din fisierul de input, impreuna cu nr_max_cards. Dupa citire acestea sunt apelate si efectuate prin intermediul functiilor corespunzatoare.
 
 Pentru a retine ierarhia de carduri se construiesc 3 structuri de date de tip lista. Tipul LC contine submultimi de carduri create in functie de pozitia lor, avand in structura un camp numit "poz". Tipul LSC contine toate campurile corespunzatoare informatiilor din card, inclusiv lista History care retine istoricul tranzactiilor, adaugandu-se "pin_tries" care tine evidenta numarului incercarilor de introducere a pinului.
